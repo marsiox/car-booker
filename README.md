@@ -1,7 +1,7 @@
 # Booking API
 ## Demo NodeJS API with Linked List
 
-This is a NodeJS API created to demonstrate the use of Linked List in sorting an array of objects.
+This is a NodeJS API created to demonstrate the use of Linked List in managing order of objects.
 
 
 ## The problem
@@ -21,7 +21,7 @@ This means the complexity is just `O(n)`. Later on I will iterate again to build
 
 Logic is located in `lib/booking.ts`
 ## Build instructions
-- Requires Node
+- Requires NodeJS
 
 ```
 npm i
