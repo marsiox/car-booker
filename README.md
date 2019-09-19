@@ -36,7 +36,7 @@ npm run-script build && npm start
 ## Running the API
 
 ### Postman
-Endpoint is accepting POST request on port `8888` with JSON raw data - type: `Application/JSON`
+Endpoint `http://localhost:8888/` is accepting POST request on port `8888` with JSON raw data - header:  `application/json`
   
 ### Curl
 ```
